@@ -697,7 +697,7 @@ function desktopAnimations() {
       start: "top 0%",
       end: "top 50%",
       scrub: 5,
-      markers:true
+      // markers:true
     },
   });
 
